@@ -1,0 +1,4 @@
+Este é um teste
+
+Entidade: ${entidade}
+Endpoint: ${endpoint}
